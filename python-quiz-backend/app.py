@@ -13,7 +13,7 @@ if os.path.exists(questions_path):
 else:
     st.error("questions.json not found!")
 
-rewards_path = os.path.join("static", "rewards.json")
+rewards_path = os.path.join("python-quiz-backend","static", "rewards.json")
 if os.path.exists(rewards_path):
     with open(rewards_path, "r", encoding="utf-8") as f:
         st.header("Rewards")
