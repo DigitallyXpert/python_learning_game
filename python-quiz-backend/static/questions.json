@@ -1,6 +1,6 @@
 [
   {
-    "question": "What is the correct way to print 'Hello, World!' in Python?",
+    "question": "What is the correct way to print 'Hello, Anshika!' in Python?",
     "options": ["A. echo('Hello, World!')", "B. print('Hello, World!')", "C. console.log('Hello, World!')"],
     "answer": "B"
   },
